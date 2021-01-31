@@ -1,8 +1,8 @@
 {
-  "name": "miru",
+  "name": "MoneyFreeGen",
   "version": "1.0.0",
   "main": "index.js",
-  "description": "shinobisbot",
+  "description": "générateur",
   "engines": {
     "node": "14.15.4"
   },
